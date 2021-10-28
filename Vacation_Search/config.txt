@@ -1,0 +1,7 @@
+# OpenWeather Key
+weather_api_key="d79ee3a3ba2a79e1963c9c7c4a6639c0"
+
+
+# Google API Key
+
+g_key= "AIzaSyD7KEfWAnSVPbf5pDGpRb4U7LhVwyTPrCE"
